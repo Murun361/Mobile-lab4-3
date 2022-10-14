@@ -1,0 +1,4 @@
+#Fri Oct 14 11:43:50 ULAT 2022
+base.0=D\:\\hicheeluud\\mobile labs\\lab4-1\\android-fundamentals-apps-v2-master\\DroidCafeOptions\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
